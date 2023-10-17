@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 
-int bin_to_dec(n) {
+int bin_to_dec(int n) {
 	int long long s_n;
 	int count_pow = 0;
 	while (n) {
